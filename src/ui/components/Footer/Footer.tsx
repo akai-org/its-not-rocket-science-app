@@ -14,7 +14,7 @@ const Footer = () => {
       alignItems="center"
     >
       <Text>Powered by </Text>
-      <Image src="logo-akai.png" alt="Logo AKAI" />
+      <Image src={colors.logoAkai} alt="Logo AKAI" />
     </Flex>
   )
 }
